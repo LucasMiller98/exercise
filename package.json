@@ -1,0 +1,16 @@
+{
+  "name": "exercise",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+   "start": "node ex061.jogoDaVelha.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
